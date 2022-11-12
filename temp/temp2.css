@@ -40,7 +40,7 @@ div.up:hover {
 section.page-1 {
     width: 100%;
     height: 649px;
-    background-image: url(/temp/hi/background/background1.jpeg);
+    background-image: url(hi/background/background1.jpeg);
     position: relative;
 }
 
@@ -589,7 +589,7 @@ div.award {
     display: flex;
     flex-direction: column;
     color: white;
-    background-image: url(/temp/hi/background/background2.jpeg);
+    background-image: url(hi/background/background2.jpeg);
 }
 
 div.award div.ud {
@@ -678,7 +678,7 @@ div.price div a {
 }
 
 div.comment {
-    background-image: url(/temp/hi/background/background3.webp);
+    background-image: url(hi/background/background3.webp);
     height: 400px;
     width: 100%;
     display: flex;
